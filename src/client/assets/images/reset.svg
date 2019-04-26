@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="94px" viewBox="0 0 92 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,46.4912422 L0,46.2189578 C0.0736827197,21.1432993 20.497196,0.7651 45.5898,0.7651 C53.3998,0.7651 61.1068,2.7751 67.8778,6.5761 L65.9198,10.0641 C59.7448,6.5971 52.7148,4.7651 45.5898,4.7651 C22.6568,4.7651 3.9998,23.4231 3.9998,46.3551 C3.9998,69.2881 22.6568,87.9451 45.5898,87.9451 C68.5228,87.9451 87.1798,69.2881 87.1798,46.3551 L91.1798,46.3551 C91.1798,71.4931 70.7278,91.9451 45.5898,91.9451 C20.497196,91.9451 0.0736827197,71.5669007 -9.54969437e-12,46.4912422 Z" id="path-1"></path>
+        <polygon id="path-3" points="14.2593346 2.71050543e-20 18 2.71050543e-20 18 20 0 20 0 2.71050543e-20 14.2593346 2.71050543e-20 17.0733 0.0001 17.0733 19.0678 0.8253 19.0678 0.8253 0.0001 14.259352 0.0001 17.0733 16.2498 0.8253 19.0678 14.2593 -0.0002"></polygon>
+    </defs>
+    <g id="Page-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ROVE_SizingApp" transform="translate(-632.000000, -764.000000)">
+            <g id="Group" transform="translate(632.000000, 764.000000)">
+                <g id="Group-657" transform="translate(0.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-656"></g>
+                    <polygon id="Fill-655" fill="#FEFEFE" mask="url(#mask-2)" points="-5.0002 96.9451 96.1798 96.9451 96.1798 -4.2349 -5.0002 -4.2349"></polygon>
+                </g>
+                <g id="Group-660" transform="translate(58.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-659"></g>
+                    <polygon id="Fill-658" fill="#FEFEFE" mask="url(#mask-4)" points="-4.1747 24.0678 22.0733 24.0678 22.0733 -5.0002 -4.1747 -5.0002"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

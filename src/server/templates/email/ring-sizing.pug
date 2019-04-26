@@ -1,0 +1,29 @@
+doctype html
+html
+    head
+        meta(charset="utf-8")
+        meta(name="viewport", content="width=device-width")
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="x-apple-disable-message-reformatting")
+        link(rel="stylesheet", href="style.css", data-inline)
+        title
+            | Rove NYC - Your Ring Sizes
+        style
+            | body{font-family: helvetica, arial, sans-serif;}.w-full{width: 100%;}h-auto{height: auto;}.font-xl{font-size: 30px;}.text-center{text-align: center;}.py-3{padding-top: 5px; padding-bottom: 5px;}table, td{border: none !important;}td{font-size: 18px;}.px-3{padding-right: 10px;padding-left: 10px;}
+        body
+            table(class="w-full")
+                tr
+                    td(colspan="3")
+                        img(src="https://cdn.shopify.com/s/files/1/1691/4911/t/2/assets/rove-ring-size-guide-email.jpg?16917462379186444527", alt="" class="w-full h-auto")
+                tr 
+                    td(class="px-3") Your Sizes
+                    td(class="px-3") D1 - #{sizes.d1}
+                    td D4 - #{sizes.d4}
+                tr
+                    td
+                    td(class="px-3") D2 - #{sizes.d2}
+                    td D5 - #{sizes.d5}
+                tr
+                    td
+                    td(class="px-3") D3 - #{sizes.d3}
+                    td

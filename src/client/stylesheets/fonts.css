@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('../assets/fonts/Avenir-Heavy.eot'); /* IE9 Compat Modes */
+    src: url('/src/client/assets/fonts/Avenir-Heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/src/client/assets/fonts/Avenir-Heavy.woff') format('woff'), /* Pretty Modern Browsers */
+    url('/src/client/assets/fonts/Avenir-Heavy.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('/src/client/assets/fonts/Avenir-Heavy.svg#Avenir-Heavy') format('svg'); /* Legacy iOS */
+}

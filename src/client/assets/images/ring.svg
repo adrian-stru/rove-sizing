@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="398px" height="403px" viewBox="0 0 398 403" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Ring Illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Start" transform="translate(-185.000000, -311.000000)">
+            <g id="Ring-Illustration" transform="translate(187.000000, 313.000000)">
+                <text id="X" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="500" fill="#FFFFFF">
+                    <tspan x="193.288" y="189">X</tspan>
+                </text>
+                <path d="M197,355.186947 C112.514361,355.186947 43.7777778,286.394976 43.7777778,201.84126 C43.7777778,117.287544 112.514361,48.4955734 197,48.4955734 C281.485639,48.4955734 350.222222,117.287544 350.222222,201.84126 C350.222222,286.394976 281.485639,355.186947 197,355.186947 Z M354.6,39.431748 C354.594528,61.2068355 284.035694,0 197,0 C109.964306,0 39.4054722,65.8893556 39.4,44.1142681 L0,44.1142681 L0,201.84126 C0,310.727651 88.2012778,399 197,399 C305.798722,399 394,310.727651 394,201.84126 L394,39.431748 L354.6,39.431748 Z" id="Fill-1" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"></path>
+                <path id="Line-2" d="M45,198 L54,202.5 L54,193.5 L45,198 Z M349,198 L340,193.5 L340,202.5 L349,198 Z M53.5,198.5 L340.5,198.5 L341,198.5 L341,197.5 L340.5,197.5 L53.5,197.5 L53,197.5 L53,198.5 L53.5,198.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
